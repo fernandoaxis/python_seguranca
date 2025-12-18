@@ -1,7 +1,5 @@
 🛡️ 
 
-Estudos em Segurança da Informação, Hacking Ético e Programação de Baixo Nível com Python.
-
 Este repositório reúne scripts, exemplos e estudos práticos em Python voltados para segurança ofensiva e defensiva, com foco em:
 
 🌐 Web Hacking
